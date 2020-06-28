@@ -2,7 +2,7 @@
 Supervised Machine Learning with [Scikit-Learn](https://scikit-learn.org/stable/) Project - Regression. A personal project completed as a Final Project for a Northeastern's course DS3000: Foundations of Data Science. The presentation of this project is availible on [YouTube](youtu.be/kcqaqe3k1hm).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/h0rban/flower-harvest-prediction/master/Vizualizations/smooth_target_v_time2.png" alt="graph demo" height="400"/>
+  <img src="https://raw.githubusercontent.com/h0rban/flower-harvest-prediction/master/Vizualizations/smooth_target_v_time2.png" alt="graph demo"/>
 </p>
 
 ## Summary

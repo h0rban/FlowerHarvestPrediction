@@ -1,5 +1,5 @@
 # FlowerHarvestPrediction
-Supervised Machine Learning with Scikit Learn Project - Regression. A personal project completed as a Final Project for a Northeastern's course DS3000: Foundations of Data Science.
+Supervised Machine Learning with [Scikit-Learn](https://scikit-learn.org/stable/) Project - Regression. A personal project completed as a Final Project for a Northeastern's course DS3000: Foundations of Data Science.
 
 
 ## Summary

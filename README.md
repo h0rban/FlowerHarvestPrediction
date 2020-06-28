@@ -3,7 +3,7 @@ Supervised Machine Learning with Scikit Learn Project - Regression. A personal p
 
 
 ## Summary
-This project is focused on identifying the patterns and predicting the number of roses produced in a specific greenhouse based on the conditions inside and outside of the greenhouse. Plants usually need nutritious soil, water, sunlight, and carbon dioxide to grow. While the greenhouse controls the constant supply of nutrition and water, other conditions are variable. The amount of how much roses are produced appears to have a sinusoidal pattern with a variable vertical shift, amplitude, and period that depend on weather conditions. Full writeup is availible [here]()
+This project is focused on identifying the patterns and predicting the number of roses produced in a specific greenhouse based on the conditions inside and outside of the greenhouse. Plants usually need nutritious soil, water, sunlight, and carbon dioxide to grow. While the greenhouse controls the constant supply of nutrition and water, other conditions are variable. The amount of how much roses are produced appears to have a sinusoidal pattern with a variable vertical shift, amplitude, and period that depend on weather conditions. Full writeup is availible [here](https://github.com/h0rban/FlowerHarvestPrediction/blob/master/writeup.ipynb)
 
 
 ## Conclusion

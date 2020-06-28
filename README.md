@@ -3,6 +3,7 @@ Supervised Machine Learning with [Scikit-Learn](https://scikit-learn.org/stable/
 <p align="center">
   <img src="https://raw.githubusercontent.com/h0rban/flower-harvest-prediction/master/Vizualizations/smooth_target_v_time2.png" alt="graph demo"/ height="600">
 </p>
+
 ## Summary
 This project is focused on identifying the patterns and predicting the number of roses produced in a specific greenhouse based on the conditions inside and outside of the greenhouse. Plants usually need nutritious soil, water, sunlight, and carbon dioxide to grow. While the greenhouse controls the constant supply of nutrition and water, other conditions are variable. The amount of how much roses are produced appears to have a sinusoidal pattern with a variable vertical shift, amplitude, and period that depend on weather conditions. Full writeup is availible as [ipynb](https://github.com/h0rban/flower-harvest-prediction/blob/master/writeup.ipynb) (may not compile) and [html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/h0rban/flower-harvest-prediction/master/writeup.html).
 

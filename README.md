@@ -1,3 +1,6 @@
+## Authors:
+[Jake Horban](https://github.com/h0rban) [Pranav Ahluwalia](https://github.com/pranavwalia) 
+
 # Flower Harvest Prediction
 Supervised Machine Learning with [Scikit-Learn](https://scikit-learn.org/stable/) Project - Regression. A personal project completed as a Final Project for a Northeastern's course DS3000: Foundations of Data Science. The presentation of this project is availible on [YouTube](youtu.be/kcqaqe3k1hm).
 <p align="center">
@@ -13,5 +16,4 @@ We expected better results from the Kernel Ridge regression as scikit learn docu
 
 Future work of this project could involve combining the error prediction model with the smoothed target prediction. Additionally we believe this model has effective real world utility for greenhouse companies and possibly for other crops that are farmed. The real world implications of this project could perhaps be employed by certain hedge funds or investment firms to predict yields of various crops (other than flowers) in order to effectively price commodity futures. 
 
-## Partner
-[Pran](https://github.com/pranavwalia)
+
